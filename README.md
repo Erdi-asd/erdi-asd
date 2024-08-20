@@ -15,4 +15,5 @@ Currently, I'm focusing on:
 My goal is to earn an AWS certification and further solidify my expertise in this field.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erdi-goci-015199168).
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdi-asd)](https://github.com/anuraghazra/github-readme-stats)
