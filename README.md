@@ -3,14 +3,14 @@ I'm Erdi from Italy, a full-stack developer currently working at Teddy. While I 
 
 Currently, I'm focusing on:
 
-• Automation
-• Containers
-• CI/CD pipelines
-• Kubernetes
-• Infrastructure as Code (IaC)
-• Scripting languages
-• Linux
-• AWS
+- **Automation**
+- **Containers**
+- **CI/CD pipelines**
+- **Kubernetes**
+- **Infrastructure as Code (IaC)**
+- **Scripting languages**
+- **Linux**
+- **AWS**
 
 My goal is to earn an AWS certification and further solidify my expertise in this field.
 
