@@ -11,15 +11,6 @@ I'm a full-stack developer, but my true passion lies in cloud computing and DevO
 **Current Focus**:
 - 🔭 **Working at**: Teddy Group 
 - 🤔 **Seeking help with**: Diving deeper into the DevOps and cloud ecosystem 
-- 📫 **Contact me**: Reach out via Linkedin! 
+- 📫 **Contact me**: Reach out via [LinkedIn](https://www.linkedin.com/in/erdi-goci-015199168/)! 
 - 😄 **Pronouns**: He/Him 
 - ⚡ **Fun fact**: I’m a main support in League of Legends and an ex-diamond player in Valorant 
-
-
-
-  <a href="https://dev.to/erdi">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40' align="left"/>
-  </a>
-  <a href="https://www.linkedin.com/in/erdi-goci-015199168/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align="right"/>
-  </a>
