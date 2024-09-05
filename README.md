@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Erdi from Italy
 #### Devops | Cloud apprentice
-![Devops | Cloud apprentice](https://media.licdn.com/dms/image/v2/D4E16AQEc11svqZ9H8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723129162922?e=1729728000&v=beta&t=fjA1nNWskT5Z8pgRXJDU0fGPI05NKIjqynKeP8WXbQE)
+![Devops | Cloud apprentice](https://media.licdn.com/dms/image/v2/D4D16AQHz2iKfMOAvQg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725547225037?e=1730937600&v=beta&t=oh0Mjwx-1mV8F-ueZyHAFD9QR57wcu76l7oYoChYuUQ)
 
 I'm a full-stack developer, but my true passion lies in cloud computing and DevOps. Ever since I was introduced to the cloud, I've been captivated and dedicated to learning everything I can about it.
 
